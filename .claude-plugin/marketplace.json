@@ -1,0 +1,5 @@
+{
+  "name": "samurai-night",
+  "owner": { "name": "hotaru-ritsuki" },
+  "plugins": [{ "name": "samurai-night", "source": "./" }]
+}
