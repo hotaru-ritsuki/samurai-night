@@ -1,0 +1,6 @@
+* text=auto eol=lf
+*.png binary
+# Generated artwork: keep it out of diffs and language stats
+hooks/art.ts linguist-generated=true -diff
+hooks/make-colors.js linguist-vendored=true
+hooks/make-colors.d.ts linguist-vendored=true

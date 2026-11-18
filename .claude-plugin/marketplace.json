@@ -1,5 +1,6 @@
 {
   "name": "samurai-night",
+  "description": "samurai-night: a dark Japanese theme mod for Claude Code.",
   "owner": { "name": "hotaru-ritsuki" },
   "plugins": [{ "name": "samurai-night", "source": "./" }]
 }

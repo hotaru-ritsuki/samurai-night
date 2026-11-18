@@ -1,1 +1,10 @@
-{ "name": "samurai-night", "version": "0.1.0", "description": "Oni: T3 Code oni colors over four still Japanese scenes built from public-domain art." }
+{
+  "name": "samurai-night",
+  "version": "0.1.0",
+  "description": "Oni: a dark Japanese theme with four still night scenes built from public-domain art.",
+  "author": { "name": "hotaru-ritsuki" },
+  "homepage": "https://github.com/hotaru-ritsuki/samurai-night",
+  "repository": "https://github.com/hotaru-ritsuki/samurai-night",
+  "license": "MIT",
+  "keywords": ["theme", "dark", "japanese", "backdrop"]
+}
